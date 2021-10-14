@@ -11,21 +11,20 @@ excerpt: >-
 author: data/authors/jane-doe.json
 date: '2020-04-22'
 thumb_image: images/Kubernetes-logo.png
-thumb_image_alt: People in a conference room
+thumb_image_alt: What is Docker? The spark for the container revolution
 image: images/9.jpg
-image_alt: People in a conference room
+image_alt:What is Docker? The spark for the container revolution
 seo:
-  title: The Advantages and Disadvantages of Working from Home
-  description: A tale about advantages and disadvantages of working from home
+  title:What is Docker? The spark for the container revolution
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: The Advantages and Disadvantages of Working from Home
+      value: What is Docker? The spark for the container revolution
       keyName: property
     - name: 'og:description'
-      value: A tale about advantages and disadvantages of working from home
+      value: What is Docker? The spark for the container revolution
       keyName: property
     - name: 'og:image'
       value: images/9.jpg
@@ -34,9 +33,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: The Advantages and Disadvantages of Working from Home
+      value: What is Docker? The spark for the container revolution
     - name: 'twitter:description'
-      value: A tale about advantages and disadvantages of working from home
+      value: What is Docker? The spark for the container revolution
     - name: 'twitter:image'
       value: images/9.jpg
       relativeUrl: true
