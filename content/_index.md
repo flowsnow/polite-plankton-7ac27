@@ -115,8 +115,11 @@ sections:
     background: gray
     title: Interesting Articles
 seo:
-  title: Stackbit Azimuth Theme
-  description: The preview of the Azimuth theme
+  title: Kloudvibe DevOps Bootcamp in Park Ridge Chicago IL
+  description: >-
+    The DevOps Training Program will provide you with in-depth knowledge of
+    various DevOps tools including Linux, AWS, GCP, Terraform, Git, Jenkins,
+    Docker, Ansible
   extra:
     - name: 'og:type'
       value: website
