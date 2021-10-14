@@ -31,31 +31,10 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/Whale-Logo332_5-bf354480.png
+    image: images/Moby-run.png
     image_alt: App preview on a phone and tablet
-    title: 25 October
-    content: >
-      > *Class starts on:*
-
-      >
-
-      > *DOCKER*
-
-
-      *   Docker enables you to separate your applications from your
-      infrastructure so you can deliver software quickly. 
-
-
-      *   With Docker, you can manage your infrastructure in the same ways you
-      manage your applications. 
-
-
-      *   By taking advantage of Docker’s methodologies for shipping, testing,
-      and deploying code quickly. 
-
-
-      *   Significantly reduce the delay between writing code and running it in
-      production.
+    title: 25 October 2021
+    content: "> *Class starts on:*\n>\n> *DOCKER*\n\n*   Docker enables you to separate your applications from your infrastructure so you can deliver software quickly.\n\n*   With Docker, you can manage your infrastructure in the same ways you manage your applications.\n\n*   By taking advantage of Docker’s methodologies for shipping, testing, and deploying code quickly.\n\n*   Significantly reduce the delay between writing code and running it in production.\n\n*   Docker works with all development tools you use including VS Code, CircleCI and GitHub.  Leveraging Docker images to efficiently develop your own unique applications on Windows and Mac.\_\n"
     actions:
       - label: visit Docker.com
         url: 'https://www.docker.com/'

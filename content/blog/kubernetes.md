@@ -1,5 +1,7 @@
 ---
 title: All you need to know about Docker
+subtitle: lorem-ipsum
+date: '2020-04-22'
 excerpt: >-
   Docker is an open platform for developing, shipping, and running applications.
   Docker enables you to separate your applications from your infrastructure so
@@ -8,12 +10,8 @@ excerpt: >-
   advantage of Docker’s methodologies for shipping, testing, and deploying code
   quickly, you can significantly reduce the delay between writing code and
   running it in production.
-author: data/authors/jane-doe.json
-date: '2020-04-22'
-thumb_image: images/Kubernetes-logo.png
-thumb_image_alt: People in a conference room
-image: images/9.jpg
 image_alt: People in a conference room
+thumb_image_alt: People in a conference room
 seo:
   title: The Advantages and Disadvantages of Working from Home
   description: A tale about advantages and disadvantages of working from home
@@ -41,6 +39,9 @@ seo:
       value: images/9.jpg
       relativeUrl: true
 layout: post
+author: data/authors/jane-doe.json
+thumb_image: images/Kubernetes-logo.png
+image: images/9.jpg
 ---
 What is Docker? The spark for the container revolution
 
